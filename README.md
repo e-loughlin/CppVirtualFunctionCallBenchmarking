@@ -3,8 +3,10 @@ Benchmark tests for C++: Comparing performance reduction caused by virtual funct
 
 ### Compile Instructions
 `$ g++ *.cpp -O0 -o benchmarker`
+
 (Note: -O0 turns off compiler optimization)
 
 ### Usage Instructions (Linux)
 `$ time ./benchmarker <number_of_cycles> <Y/N>`
+
 Y = With Inheritance    N = No Inheritance
