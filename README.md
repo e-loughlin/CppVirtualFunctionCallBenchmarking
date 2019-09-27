@@ -13,4 +13,4 @@ Y = With Inheritance    N = No Inheritance
 
 ### Sample Output
 
-![alt text](https://github.com/emloughl/CppVirtualFunctionCallBenchmarking/sample_output.png)
+![alt text](https://github.com/emloughl/CppVirtualFunctionCallBenchmarking/blob/master/sample_output.PNG)
