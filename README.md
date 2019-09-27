@@ -10,3 +10,7 @@ Benchmark tests for C++: Comparing performance reduction caused by virtual funct
 `$ time ./benchmarker <number_of_cycles> <Y/N>`
 
 Y = With Inheritance    N = No Inheritance
+
+### Sample Output
+
+![alt text](https://github.com/emloughl/CppVirtualFunctionCallBenchmarking/sample_output.png)
